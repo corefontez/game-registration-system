@@ -17,7 +17,31 @@
 * [Licença](#licença)
 * [Conclusão](#conclusão)
 
+<h2>Descrição do projeto</h2>
+Projeto desenvolvido para o aprendizado da tecnologia GIT.
+
 > Status do projeto: Em desenvolvimento
+
+Usar Badges para informar status do projeto 
+ou <h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
+
+<h2>Informar funcionalidades:</h2>
+# :hammer: Funcionalidades do projeto
+
+- `Funcionalidade 1`: descrição da funcionalidade 1
+- `Funcionalidade 2`: descrição da funcionalidade 2
+- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
+- `Funcionalidade 3`: descrição da funcionalidade 3
+
+  OU como GIF, arrastando o gif para o README
+
+
+
+
+  
+
 
 Para rodar esse projeto na sua máquina, por favor digite:
 
